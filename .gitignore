@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+StockEmotions
+Vn_AirLine
+finding/data/1.jpg
+finding/data/cut_2.png
+finding/object_1
